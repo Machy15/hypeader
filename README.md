@@ -1,6 +1,6 @@
 # Hyper adder
 
-made by xwares (edited by Mareceek)
+- Created by <a href="https://discord.com/users/931226381721952296">Machy</a>
 
 ## How to use
 create tokens.txt file
